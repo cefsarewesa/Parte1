@@ -1,2 +1,2 @@
 # Parte1
- Pseudocodigo
+ Pseudocódigo
